@@ -1,11 +1,11 @@
 #Colt Steele
 
-Here's a picture of my dog, Rusty:
+Here's a picture of my dog, Buster:
 
-![My Dog Rusty](http://i.imgur.com/WA7Z6vG.jpg)
+![My Dog Buster](http://i.imgur.com/WA7Z6vG.jpg)
 
-Rusty is
+Buster is
 
-* adorable
-* clumsy
-* cute
+* hungry
+* cold
+* wet
