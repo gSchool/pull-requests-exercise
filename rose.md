@@ -1,4 +1,4 @@
-##Hello!
+##Hel##Hello!
 
 ###Here is a picture of my Lily:
 
@@ -6,6 +6,8 @@
 
 ###People often refer to me as Lily's bud.
 
-##Here is a picture of Felix:
+
+
+###"Here is a picture of Felix:
 ![](https://drpem3xzef3kf.cloudfront.net/photos/pets/22371694/1/?bust=1416408719&width=632&no_scale_up=1)
-##I would like to bring him home to live with me...
+###I would like to bring him home to live with me...
